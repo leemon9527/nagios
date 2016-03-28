@@ -4,7 +4,7 @@
 
 ESXI：
     由于无法自定义命令行写脚本，借用https://github.com/Napsty/check_esxi_hardware
-
+<br>
 公司所有服务器的RAID卡分别为 Dell PERC H510 Mini，Dell PERC H710 Mini，Dell SAS 6/iR
 其中H710,H510可使用MegaCli来管理，SAS 6/iR使用lsiutil来进行管理
 Linux：
